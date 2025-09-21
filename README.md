@@ -1,5 +1,7 @@
 # Projeto_03-WebI
 
+- **Receita - Projeto 03**
+
 ### _Projeto Web I – IFCE_
 
 - 👩‍💻 **Autora** : Débora Liah Uchoa Pereira
@@ -7,7 +9,7 @@
 - 📚 **Curso** : Técnico em Informática IFCE
 - 🛠️ **Tecnologia Utilizada** : _HTML5_
   
-- 🎯 **Objetivo do Projeto** :
+## 🎯 **Objetivo do Projeto** :
 O objetivo deste projeto é **desenvolver uma aplicação web simples utilizando apenas HTML5**, com foco na **estruturação de conteúdo** e na **aplicação prática dos conceitos estudados em sala de aula**.  
 
 - 📂 **Estrutura do Projeto** :
